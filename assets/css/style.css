@@ -1,0 +1,45 @@
+.container_media {
+    display: flex;
+}
+
+
+.rangement {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.lecteur {
+
+
+
+
+}
+
+.moitie{
+    display:flex;
+    height: 50%;
+    flex-direction: row;
+
+
+
+}
+
+.pitch {
+    
+
+
+
+}
+
+.volume {
+    width: 50%;
+
+
+}
+
+.gain {
+    width: 50%;
+
+
+}
